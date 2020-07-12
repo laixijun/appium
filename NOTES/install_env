@@ -1,0 +1,2 @@
+或者在你的.npmrc文件增加属性
+chromedriver_cdnurl=http://npm.taobao.org/mirrors/chromedriver
